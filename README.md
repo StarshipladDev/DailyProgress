@@ -6,7 +6,7 @@ File Storage For My Morning Development Projects
 
 #Image Of Latest Update
 
-![Image Of Latest View](Week3/31-08-22/READMEimg.png)
+![Image Of Latest View](Week3/31-08-22/READMEimg.PNG)
 
 #Latest Update:
 ```
